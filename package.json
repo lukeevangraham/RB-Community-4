@@ -1,0 +1,25 @@
+{
+  "name": "rb-community-4",
+  "version": "1.0.0",
+  "description": "Website draft for RB Community Church",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^5.9.0",
+    "startbootstrap-sb-admin-2": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeevangraham/RB-Community-4.git"
+  },
+  "author": "Luke Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeevangraham/RB-Community-4/issues"
+  },
+  "homepage": "https://github.com/lukeevangraham/RB-Community-4#readme"
+}
