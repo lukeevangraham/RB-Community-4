@@ -4,7 +4,7 @@
   "description": "Website draft for RB Community Church",
   "main": "index.js",
   "dependencies": {
-    "sequelize": "^5.9.0",
+    "sequelize": "^5.15.1",
     "startbootstrap-sb-admin-2": "^4.0.6"
   },
   "devDependencies": {},
